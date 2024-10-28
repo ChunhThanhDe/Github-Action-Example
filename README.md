@@ -1,5 +1,5 @@
 # Github-Action-Example
 
-'<!--START_SECTION:Score-->
+<!--START_SECTION:Score-->
 
 <!--END_SECTION:Score-->
